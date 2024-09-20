@@ -3,13 +3,13 @@
 **용기는 최고의 마법**이라는 모토를 가지고 항상 도전하는 마음가짐으로 살아가고 있습니다!  
 **Web Backend 개발자**를 지망하고 있습니다.
 
-### Tech Stack
+## Tech Stack
 ![Static Badge](https://img.shields.io/badge/java-c1121f?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### What I've used
+## What I've used
 ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
