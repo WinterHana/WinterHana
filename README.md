@@ -1,23 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3a86ff&height=200&text=✨%WinterHana&animation=twinkling&fontColor=03045e&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3a86ff&height=250&text=✨%WinterHana✨&animation=twinkling&fontColor=03045e&fontSize=50)
 
-**용기는 최고의 마법**이라는 모토를 가지고 항상 도전하는 마음가짐으로 살아가고 있습니다!  
-**Web Backend 개발자**를 지망하고 있습니다.
+**용기는 최고의 마법**이라는 모토를 통해 항상 용기와 함께 도전하는 마음가짐으로 살아가고 있습니다!<br>
+사용자의 **진짜 요구사항**이 무엇인지 파악하고 효율적으로 해결할 수 있는 **Web Backend 개발자**를 지향하고 있습니다.<br>
 
-## Tech Stack
-![Static Badge](https://img.shields.io/badge/java-c1121f?style=for-the-badge&logo=java&logoColor=white)
+## :computer: Backend Framework
 ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
 
-## What I've used
-![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+## :file_folder: RDBS
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 
-## Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winter_hana)]([https://solved.ac/{handle}](https://solved.ac/profile/winter_hana))
+
+## :fire: Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winter_hana)]([https://solved.ac/{handle}](https://solved.ac/profile/winter_hana))
